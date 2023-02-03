@@ -1,6 +1,9 @@
 # Customer Segmentation based on RFM model 😃😆😡
 
 -------------------------------
+* [Dashboard Insight](#dashboard-insight)
+
+
 # About Project📖
    
   This is a data analytics project where the task is to determine customer segmentation. I've collected the data from first technical assessment from TidyQuant company. I gave my best and applied many logics and approaches for that task. Unfortunately I failed in second technical assessment :( So decided to scale up my analytical skills and here is my project for analytics.
@@ -23,6 +26,6 @@
 13. Build an insightful Tableau Dashboard based on cleaed and well structured data.
 
 -------------------------
-# Dashboard Insights📊
+# [Dashboard Insight](#dashboard-insight)📊
 
 <img src='https://github.com/karan842/customer-segmentation-rfm/blob/master/Dashboard.jpg'></img>
